@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval">
+    <gradient android:startColor="#30f2f2" android:endColor="#1122cc" />
+
+    <!--    We can change the cornering of the button by function corner radius-->
+    <!--We can also make attractive buttons using the gradient button which have rainbow like appearance-->
+</shape>
